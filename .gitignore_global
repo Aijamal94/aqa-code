@@ -1,0 +1,54 @@
+# Игнорировать файлы и папки
+.CFUserTextEncoding
+.anyconnect/
+.anydesk/
+.cisco/
+.gitconfig
+.gradle/
+.idlerc/
+.lesshst
+.m2/
+.ssh/
+.viminfo
+.vscode/
+.zsh_history
+.zsh_sessions/
+Applications/
+CashbackHackService/
+Desktop/
+Documents/
+
+# Игнорировать системные файлы
+.DS_Store
+*.log
+
+# Игнорировать конфигурационные файлы и папки
+*.gitconfig
+.gradle/
+.idlerc/
+.m2/
+.ssh/
+.viminfo
+.vscode/
+.zsh_history
+.zsh_sessions/
+
+# Игнорировать специфичные директории
+Applications/
+CashbackHackService/
+Documents/
+Downloads/
+Google Drive/
+IdeaProjects/
+Library/
+Movies/
+Music/
+Pictures/
+Public/
+TgBotNew/
+
+# Игнорировать файлы
+Untitled-1.yml
+git-2-homeworks-merge/
+git-2-homeworks-pr/
+git-2-homeworks-revert/
